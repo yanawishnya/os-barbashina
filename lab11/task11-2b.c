@@ -7,7 +7,7 @@
 
 int main(void) {
   int msqid;
-  char pathname[] = "task11_2a.c";
+  char pathname[] = "task11-2a.c";
   key_t  key;
   int len, maxlen;
 
